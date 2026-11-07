@@ -1,0 +1,5 @@
+name: hijri_dart_sundial_mizwalah_sim
+description: "Classical Islamic Horizontal Sundial (Mizwalah) Gnomonic Projection Engine"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
